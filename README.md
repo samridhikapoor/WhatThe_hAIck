@@ -39,7 +39,7 @@ to solve pest problems while minimizing risks to people and the environment.
 
 ## About Dataset 
 
-[link](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+[Link](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 This dataset is recreated using offline augmentation from the original dataset. This dataset consists of about 87K rgb images of healthy and diseased crop leaves which is categorized into 38 different classes. The total dataset is divided into 80/20 ratio of training and validation set preserving the directory structure. A new directory containing 33 test images is created later for prediction purpose.
 ![data.jpeg](https://www.dropbox.com/s/mf18plqppjt4og2/data.jpeg?dl=0&raw=1)![data1.jpeg](https://www.dropbox.com/s/3b5yvbm9gb74r8j/data1.jpeg?dl=0&raw=1)
