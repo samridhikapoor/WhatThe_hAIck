@@ -31,6 +31,8 @@ pip install -r requirements.txt
 # run the python file
 python app.py
 ```
+**Copy the Url http://127.0.0.1:5000/ and run on your preferred browser**
+http://127.0.0.1:5000/
 
 
 
