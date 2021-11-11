@@ -80,13 +80,17 @@ We used VGG19 for enhancing the accuracy of our model.
 
 ![Capture (2).PNG](https://www.dropbox.com/s/nxlll3vijl8ejkq/Capture%20%282%29.PNG?dl=0&raw=1)![Capture (1).PNG](https://www.dropbox.com/s/7c4upiiummo7rvp/Capture%20%281%29.PNG?dl=0&raw=1)
 
+
+
 ## Results
 Now the best models with best accuracy detects the brain tumor with accuracy
 
 Accuracy 85%
 ![accuracy (1).png](https://www.dropbox.com/s/wgs3rcgrqpt35zj/accuracy%20%281%29.png?dl=0&raw=1)
 
+## Web Application
 
+![MyVideo_1](https://user-images.githubusercontent.com/83203229/141359598-29e2f040-c0b0-4a78-907a-43f2f8e040d0.gif)
 
 
 
