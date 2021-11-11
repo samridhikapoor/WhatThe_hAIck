@@ -32,7 +32,8 @@ pip install -r requirements.txt
 python app.py
 ```
 **Copy the Url http://127.0.0.1:5000/ and run on your preferred browser**
-http://127.0.0.1:5000/
+![WhatsApp Image 2021-11-12 at 00 19 18](https://user-images.githubusercontent.com/81116984/141352783-f4eb5a8b-5a86-4c09-a707-93fa50f0b5f8.jpeg)
+
 
 
 
