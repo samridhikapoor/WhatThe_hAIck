@@ -1,3 +1,5 @@
 flask
 keras
 tensorflow
+pillow
+pandas
