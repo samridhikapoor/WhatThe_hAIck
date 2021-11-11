@@ -21,6 +21,9 @@ improve the productivity of the farm. Our work solves the above mentioned proble
 plant disease classification using deep learning and computer vision techniques.
 
 ## Building
+
+**_Prequisre Python3 (https://www.python.org/downloads/)_**
+</br>
 ```bash
 # clone the repo
 git clone https://github.com/NischayGoyal1/WhatThe_hAIck.git .
