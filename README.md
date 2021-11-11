@@ -23,7 +23,7 @@ plant disease classification using deep learning and computer vision techniques.
 ## Building
 ```bash
 # clone the repo
-git clone git@github.com:NischayGoyal1/WhatThe_hAIck.git .
+git clone https://github.com/NischayGoyal1/WhatThe_hAIck.git .
 
 # install dependecies
 pip install -r requirements.txt
