@@ -104,7 +104,7 @@ Knowing if the plant is suffering with a disease we can conclude which pesticide
 2. As a newbie to Machine learning domain it is very difficult to work with huge number of funtions and libraries.3)As we have used VGG 19 architure so most of the common inbuilt functions are not working , we have encounterd with number of errors , So finding new functions and there respective libraries is quite a troublesome.
 3. As we have used VGG 19 architure so most of the common inbuilt functions are not working , we have encounterd with number of errors , So finding new functions and there respective libraries is quite a troublesome.
 4. Faced Pixel Related issue for showing false result for Feed images
-5. Had Trouble in deployment of our model on website , and linking backend with  the frontend
+5. Had Trouble in deployment of our model on website , and linking backend with  the frontend.
 
 ## Contributors
 [Nischay](https://github.com/NischayGoyal1)
