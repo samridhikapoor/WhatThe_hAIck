@@ -48,8 +48,7 @@ whether the crop they are harvesting is good enough. It is of utmost importance 
 as it can lead to serious problems in plants due to which respective product quality, quantity or
 productivity is affected. Plant diseases cause a periodic outbreak of diseases leading to large-scale
 death which severely affects the economy. These problems need to be solved at the initial stage,
-to save the lives and money of people. Automatic classification of plant diseases is an important research topic as it is important in monitoring large fields of crops and at a very early stage, if we can
-detect the symptoms of diseases when they appear on plant leaves. This enables computer vision
+to save the lives and money of people. Automatic classification of plant diseases is an important research topic as it is important in monitoring large fields of crops and at a very early stage, if we can detect the symptoms of diseases when they appear on plant leaves. This enables computer vision
 algorithms to provide image-based automatic inspection. Comparatively, manual identification is
 labor intensive, less accurate and can be done only in small areas at a time. By this method, the plant
 diseases can be identified at the initial stage itself and the pest and infection control tools can be used
