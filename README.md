@@ -77,6 +77,7 @@ We used VGG19 for enhancing the accuracy of our model.
 ![flowchart.jpg](https://www.dropbox.com/s/4sw176a2zlxy3ie/flowchart.jpg?dl=0&raw=1)
 
 ## Loss and accuracy plot
+
 ![Capture (2).PNG](https://www.dropbox.com/s/nxlll3vijl8ejkq/Capture%20%282%29.PNG?dl=0&raw=1)![Capture (1).PNG](https://www.dropbox.com/s/7c4upiiummo7rvp/Capture%20%281%29.PNG?dl=0&raw=1)
 
 ## Results
