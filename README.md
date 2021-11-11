@@ -22,7 +22,7 @@ plant disease classification using deep learning and computer vision techniques.
 
 ## Building
 
-**_Prequisre Python3 (https://www.python.org/downloads/)_**
+**_Prequired Python3 (https://www.python.org/downloads/)_**
 </br>
 ```bash
 # clone the repo
