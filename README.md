@@ -83,7 +83,7 @@ We used VGG19 for enhancing the accuracy of our model.
 
 
 ## Results
-Now the best models with best accuracy detects the brain tumor with accuracy
+Now the best models with best accuracy detects the plant disease with accuracy
 
 Accuracy 85%
 ![accuracy (1).png](https://www.dropbox.com/s/wgs3rcgrqpt35zj/accuracy%20%281%29.png?dl=0&raw=1)
